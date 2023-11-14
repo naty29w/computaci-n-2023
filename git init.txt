@@ -1,0 +1,11 @@
+GIT INIT:
+Es un comando que se utiliza una sola vez durantela configuración inicial de un repositorio. Al ejecutar este comando se creará un nuevo subdirectorio
+
+GIT ADD:
+Agrega cambios
+
+GIT COMMIT:
+Se usa para confirmar los cambios en el area de preparación y guardarlos en el repositorio local
+
+GIT PUSH:
+Sube los cambios hechos en tu ambiente de trabajo a una rama de trabajo tuya y/o de tu equipo remota
